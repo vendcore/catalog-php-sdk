@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4a0ca00-9d96-4b85-9161-e9434c8c2500" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1aepw9yAnwLL2sPgGRJ3tiL2xG1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/BaseClient" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\var\local\vendcore\api\vendcore-catalog-php-client-api\src\BaseClient" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4a0ca00-9d96-4b85-9161-e9434c8c2500" name="Default Changelist" comment="" />
+      <created>1587106149632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587106149632</updated>
+      <workItem from="1587106151154" duration="1956000" />
+      <workItem from="1587428276088" duration="16159000" />
+      <workItem from="1587768528544" duration="28553000" />
+      <workItem from="1590101101805" duration="6737000" />
+      <workItem from="1591247988487" duration="6699000" />
+      <workItem from="1591605985457" duration="4444000" />
+      <workItem from="1592549278620" duration="1199000" />
+      <workItem from="1593631865149" duration="599000" />
+      <workItem from="1594716953924" duration="596000" />
+      <workItem from="1596097800133" duration="1916000" />
+      <workItem from="1596489316564" duration="2218000" />
+      <workItem from="1596949899366" duration="641000" />
+      <workItem from="1597139023727" duration="599000" />
+      <workItem from="1598410420661" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3645" y="418" key="#com.intellij.ide.util.MemberChooser" timestamp="1588993408952">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1085" y="418" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587455398580" />
+    <state x="3645" y="418" key="#com.intellij.ide.util.MemberChooser/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588993408952" />
+    <state x="3570" y="456" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1588994967683">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3570" y="456" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588994967683" />
+    <state x="3559" y="534" key="NewPhpClassDialog" timestamp="1588893607135">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="999" y="534" key="NewPhpClassDialog/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587450340897" />
+    <state x="3559" y="534" key="NewPhpClassDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588893607135" />
+    <state x="1114" y="631" key="NewPhpFileDialog" timestamp="1587446440273">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1114" y="631" key="NewPhpFileDialog/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587446440273" />
+    <state x="783" y="345" key="SettingsEditor" timestamp="1587449239437">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="783" y="345" key="SettingsEditor/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587449239437" />
+    <state x="153" y="83" width="2376" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589958931725">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="153" y="83" width="2376" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1589958931725" />
+    <state x="3485" y="431" width="710" height="536" key="find.popup" timestamp="1591856079070">
+      <screen x="2560" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3485" y="431" width="710" height="536" key="find.popup/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1591856079070" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/config/api.php</url>
+          <line>1584</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
