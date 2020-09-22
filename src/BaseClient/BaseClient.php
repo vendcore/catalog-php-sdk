@@ -82,7 +82,7 @@ class BaseClient extends GuzzleClient
                 'Accept' => 'application/json',
             ],
             'http_errors' => true,
-            'debug' => true,
+            'debug' => $this->env == self::ENV_PROD ? false : true,
         ];
         $options['headers'] = array_merge($options['headers'], $this->getAuthorizationHeader($method, $endPoint, $params));
 
