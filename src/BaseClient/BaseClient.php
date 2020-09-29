@@ -22,6 +22,7 @@ class BaseClient extends GuzzleClient
     const BASE_URL_PROD = 'https://api.vendcore.com/';
     const BASE_URL_STAGE = 'https://dev.api.vendcore.com/';
 
+    private $debugMode;
     private $baseUri;
     private $apiKey;
     private $contentType;
@@ -37,8 +38,10 @@ class BaseClient extends GuzzleClient
      * @param string $env
      * @throws \Exception
      */
-    public function __construct($apiKey, $env = self::ENV_PROD)
+    public function __construct($apiKey, $env = self::ENV_PROD, $debugMode = false)
     {
+
+        $this->debugMode = $debugMode;
 
         /*
          * Make sure ENV is valid
@@ -82,7 +85,7 @@ class BaseClient extends GuzzleClient
                 'Accept' => 'application/json',
             ],
             'http_errors' => true,
-            'debug' => $this->env == self::ENV_PROD ? false : true,
+            'debug' => $this->debugMode,
         ];
         $options['headers'] = array_merge($options['headers'], $this->getAuthorizationHeader($method, $endPoint, $params));
 

@@ -9,9 +9,7 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -37,31 +35,30 @@
   <component name="ProjectId" id="1aepw9yAnwLL2sPgGRJ3tiL2xG1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/BaseClient" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="X:\var\local\vendcore\api\vendcore-catalog-php-client-api\src\BaseClient" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
+  <component name="RunManager">
+    <configuration name="BaseClient.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/BaseClient/BaseClient.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
+        <item itemvalue="PHP Script.BaseClient.php" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -85,44 +82,27 @@
       <workItem from="1596489316564" duration="2218000" />
       <workItem from="1596949899366" duration="641000" />
       <workItem from="1597139023727" duration="599000" />
-      <workItem from="1598410420661" duration="599000" />
+      <workItem from="1598410420661" duration="2684000" />
+      <workItem from="1599095796689" duration="599000" />
+      <workItem from="1599965700069" duration="1288000" />
+      <workItem from="1600650526978" duration="759000" />
+      <workItem from="1600664229635" duration="618000" />
+      <workItem from="1600665158207" duration="4207000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="3645" y="418" key="#com.intellij.ide.util.MemberChooser" timestamp="1588993408952">
+    <state x="3268" y="342" width="864" height="715" key="#PHP" timestamp="1600673072790">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="1085" y="418" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587455398580" />
-    <state x="3645" y="418" key="#com.intellij.ide.util.MemberChooser/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588993408952" />
-    <state x="3570" y="456" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1588994967683">
+    <state x="3268" y="342" width="864" height="715" key="#PHP/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1400@2560.0.2560.1400" timestamp="1600673072790" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1601351751759">
       <screen x="2560" y="0" width="2560" height="1400" />
     </state>
-    <state x="3570" y="456" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588994967683" />
-    <state x="3559" y="534" key="NewPhpClassDialog" timestamp="1588893607135">
-      <screen x="2560" y="0" width="2560" height="1400" />
-    </state>
-    <state x="999" y="534" key="NewPhpClassDialog/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587450340897" />
-    <state x="3559" y="534" key="NewPhpClassDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1588893607135" />
-    <state x="1114" y="631" key="NewPhpFileDialog" timestamp="1587446440273">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1114" y="631" key="NewPhpFileDialog/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587446440273" />
-    <state x="783" y="345" key="SettingsEditor" timestamp="1587449239437">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="783" y="345" key="SettingsEditor/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398/2560.0.2560.1398@0.0.2560.1400" timestamp="1587449239437" />
-    <state x="153" y="83" width="2376" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589958931725">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="153" y="83" width="2376" height="1214" key="com.intellij.history.integration.ui.views.FileHistoryDialog/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1589958931725" />
-    <state x="3485" y="431" width="710" height="536" key="find.popup" timestamp="1591856079070">
-      <screen x="2560" y="0" width="2560" height="1400" />
-    </state>
-    <state x="3485" y="431" width="710" height="536" key="find.popup/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1398@2560.0.2560.1400" timestamp="1591856079070" />
+    <state width="498" height="446" key="SwitcherDM/2560.0.2560.1400/0.0.2560.1400/5120.0.1920.1200/-2560.0.2560.1400@2560.0.2560.1400" timestamp="1601351751759" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -131,6 +111,11 @@
           <url>file://$PROJECT_DIR$/src/config/api.php</url>
           <line>1584</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/Factory/Factory.php</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

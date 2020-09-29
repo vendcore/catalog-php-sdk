@@ -94,7 +94,7 @@ class Factory
                 $this->apiKey = $apiKey;
                 $this->config = $config;
                 $this->name = $name;
-                $this->baseClient = new BaseClient($apiKey, $isSandboxMode ? BaseClient::ENV_STAGE : BaseClient::ENV_PROD);
+                $this->baseClient = new BaseClient($apiKey, $isSandboxMode ? BaseClient::ENV_STAGE : BaseClient::ENV_PROD, $this->isDebugMode());
             }
 
             public function __call($name, $arguments)
